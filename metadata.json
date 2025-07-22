@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Mirage镜像站",
+  "description": "Mirage镜像站 is a powerful AI chat interface created by 魁煞.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
